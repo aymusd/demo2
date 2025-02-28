@@ -2,6 +2,8 @@ package com.task02;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
+import com.amazonaws.services.lambda.runtime.events.APIGatewayV2HTTPEvent;
+import com.amazonaws.services.lambda.runtime.events.APIGatewayV2HTTPResponse;
 import com.syndicate.deployment.annotations.lambda.LambdaHandler;
 import com.syndicate.deployment.annotations.lambda.LambdaUrlConfig;
 import com.syndicate.deployment.model.RetentionSetting;
@@ -47,4 +49,4 @@ public class HelloWorld implements RequestHandler<APIGatewayV2HTTPEvent, APIGate
     private String getPath(APIGatewayV2HTTPEvent requestEvent) {
         return requestEvent.getRequestContext().getHttp().getPath();
     }
-}syndicate build
+}
