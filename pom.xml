@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <modelVersion>4.0.0</modelVersion>
-<groupId>task04-group</groupId>
-<artifactId>task04</artifactId>
+<groupId>task05-group</groupId>
+<artifactId>task05</artifactId>
 <version>1.0.0</version>
 <properties>
 <maven-shade-plugin.version>3.5.2</maven-shade-plugin.version>
@@ -13,20 +13,18 @@
 <resources.dir>jsrc/main/resources</resources.dir>
 </properties>
 <dependencies>
-<!--  AWS dependencies  -->
+<!--  AWS dependencies -->
 <dependency>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-lambda-java-core</artifactId>
 <version>1.2.0</version>
 </dependency>
-<!--  AWS Lambda Java Events (Added)  -->
 <dependency>
 <groupId>com.amazonaws</groupId>
-<artifactId>aws-lambda-java-events</artifactId>
-<version>3.11.6</version>
-<!--  Use latest version if needed  -->
+<artifactId>aws-java-sdk-dynamodb</artifactId>
+<version>1.12.700</version>
 </dependency>
-<!--  Syndicate annotations  -->
+<!-- Syndicate annotations -->
 <dependency>
 <groupId>net.sf.aws-syndicate</groupId>
 <artifactId>deployment-configuration-annotations</artifactId>
@@ -47,7 +45,7 @@
 <version>${syndicate.java.plugin.version}</version>
 <configuration>
 <packages>
-<package>com.task04</package>
+<package>com.task05</package>
 </packages>
 <fileName>${project.name}-${project.version}.jar</fileName>
 </configuration>
