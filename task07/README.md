@@ -1,4 +1,4 @@
-# task08
+# task07
 
 High level project overview - business value it brings, non-detailed technical overview.
 
@@ -7,9 +7,9 @@ All the technical details described below are actual for the particular
 version, or a range of versions of the software.
 ### Actual for versions: 1.0.0
 
-## task08 diagram
+## task07 diagram
 
-![task08](pics/task08_diagram.png)
+![task07](pics/task07_diagram.png)
 
 ## Lambdas descriptions
 

@@ -1,4 +1,4 @@
-package com.task08;
+package com.task07;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
