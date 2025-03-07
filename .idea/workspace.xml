@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97cb2380-e0d9-443b-ad0f-605de42f9b37" name="Changes" comment="u">
-      <change beforePath="$PROJECT_DIR$/task08/jsrc/main/java/com/task07/UuidGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/task08/jsrc/main/java/com/task07/UuidGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task08/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task08/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task08/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task08/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task08/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task08/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task08/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task08/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task08/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task08/deployment_resources.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task08/jsrc/main/java/com/task07/UuidGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task08/pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +68,7 @@
       <workItem from="1740732371117" duration="1186000" />
       <workItem from="1740763085820" duration="879000" />
       <workItem from="1741089807473" duration="8414000" />
-      <workItem from="1741329669929" duration="3790000" />
+      <workItem from="1741329669929" duration="5195000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -290,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741333180536</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="u">
+      <option name="closed" value="true" />
+      <created>1741333592141</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1741333592141</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

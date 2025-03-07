@@ -9,7 +9,7 @@ version, or a range of versions of the software.
 
 ## task08 diagram
 
-![task08](pics/task07_diagram.png)
+![task08](pics/task08_diagram.png)
 
 ## Lambdas descriptions
 
