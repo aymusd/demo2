@@ -32,8 +32,8 @@ import java.util.stream.IntStream;
 @LambdaHandler(
 		lambdaName = "uuid_generator",
 		roleName = "uuid_generator-role",
-		isPublishVersion = true,
-		aliasName = "${lambdas_alias_name}",
+		isPublishVersion = false,
+		aliasName = "learn",
 		logsExpiration = RetentionSetting.SYNDICATE_ALIASES_SPECIFIED
 )
 @RuleEventSource(targetRule = "uuid_trigger")
