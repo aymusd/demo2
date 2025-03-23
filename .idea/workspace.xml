@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97cb2380-e0d9-443b-ad0f-605de42f9b37" name="Changes" comment="u" />
+    <list default="true" id="97cb2380-e0d9-443b-ad0f-605de42f9b37" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/deployment_resources.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/ApiHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/dto/Reservation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/dto/Reservations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/dto/RouteKey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/dto/SignIn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/dto/SignUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/dto/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/dto/Tables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/exceptions/NoTableException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/exceptions/OverlappingReservationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/handler/CognitoSupport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/handler/GetReservationsHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/handler/GetRootHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/handler/GetTableHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/handler/GetTablesHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/handler/PostReservationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/handler/PostSignInHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/handler/PostSignUpHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/handler/PostTableHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/jsrc/main/java/com/task10/handler/RouteNotImplementedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/pom.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,21 +54,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Lenovo-PC/PycharmProjects",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo-PC/PycharmProjects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,6 +90,7 @@
       <workItem from="1741089807473" duration="8414000" />
       <workItem from="1741329669929" duration="5486000" />
       <workItem from="1741762893432" duration="243000" />
+      <workItem from="1742722494991" duration="773000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -314,15 +348,31 @@
       <option name="project" value="LOCAL" />
       <updated>1741335840632</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="u">
+      <option name="closed" value="true" />
+      <created>1742722512082</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1742722512082</updated>
+    </task>
+    <task id="LOCAL-00034" summary="update">
+      <option name="closed" value="true" />
+      <created>1742722900043</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1742722900043</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update" />
     <MESSAGE value="u" />
-    <option name="LAST_COMMIT_MESSAGE" value="u" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
